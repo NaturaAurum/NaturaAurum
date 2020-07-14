@@ -4,22 +4,22 @@
 
 </div>
 
-<h2 align="left">
+<h3 align=left>
   <abc>
     <br>👋 Hi, I'm NaturaAurum!<br>
     <br> I'm working on game industry from Korea as Unity client programmer<br>
   </abc>
-</h2>
+</h3>
 
 <div align=center>
 <img width="800" src="https://github.com/NaturaAurum/NaturaAurum/blob/master/assets/miku_003.gif"/>
 </div>
 
-<h2 align="left">
+<h3 align=center>
   <abc>
     <br>Skills<br>
   </abc>
-</h2>
+</h3>
 
 <div align=center>
 
@@ -29,11 +29,11 @@
 
 </div>
 
-<h2 align="left">
+<h3 align=center>
   <abc>
     <br>Social Links<br>
   </abc>
-</h2>
+</h3>
 
 <div align=center>
 
