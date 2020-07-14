@@ -24,7 +24,7 @@
 <div align=center>
 
 ![](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-![](https://img.shields.io/badge/C%23-green?style=flat-squre)
+![](https://img.shields.io/badge/C%23-green?style=flat-square)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
