@@ -4,14 +4,22 @@
 
 </div>
 
-## 👋 Hi, I'm NaturaAurum!
-## I'm working on game industry from Korea as Unity client programmer
+<h2 align="left">
+  <abc>
+    <br>👋 Hi, I'm NaturaAurum!<br>
+    <br> I'm working on game industry from Korea as Unity client programmer<br>
+  </abc>
+</h2>
 
 <div align=center>
 <img width="800" src="https://github.com/NaturaAurum/NaturaAurum/blob/master/assets/miku_003.gif"/>
 </div>
 
-## Skils
+<h2 align="left">
+  <abc>
+    <br>Skills<br>
+  </abc>
+</h2>
 
 <div align=center>
 
@@ -21,7 +29,11 @@
 
 </div>
 
-## Social Links
+<h2 align="left">
+  <abc>
+    <br>Social Links<br>
+  </abc>
+</h2>
 
 <div align=center>
 
