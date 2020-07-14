@@ -4,9 +4,14 @@
 
 </div>
 
+## 👋 Hi, I'm NaturaAurum!
+## I'm working on game industry from Korea as Unity client programmer
+
 <div align=center>
 <img width="800" src="https://github.com/NaturaAurum/NaturaAurum/blob/master/assets/miku_003.gif"/>
 </div>
+
+## Skils
 
 <div align=center>
 
@@ -16,8 +21,10 @@
 
 </div>
 
+## Social Links
+
 <div align=center>
-  
+
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://naturaaurum.github.io/)](https://naturaaurum.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naturaaurum-0606/)](https://www.linkedin.com/in/naturaaurum-0606/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/NaturaAurum)](https://www.facebook.com/NaturaAurum) 
