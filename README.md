@@ -5,14 +5,14 @@
 </div>
 
 <div align=center>
-<img width="800" src="https://github.com/NaturaAurum/NaturaAurum/master/assets/miku_003.gif"/>
+<img width="800" src="https://github.com/NaturaAurum/NaturaAurum/blob/master/assets/miku_003.gif"/>
 </div>
 
 <div align=center>
 
-![](https://img.shields.io/badge/-Unity-black)
-![](https://img.shields.io/badge/-C#-green)
-![](https://img.shields.io/badge/-Python-blue)
+![](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
+![](https://img.shields.io/badge/C%23-green?style=flat-squre)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
