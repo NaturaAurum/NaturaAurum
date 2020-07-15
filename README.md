@@ -12,7 +12,8 @@
 </h3>
 
 <div align=center>
-<img width="800" src="https://github.com/NaturaAurum/NaturaAurum/blob/master/assets/miku_003.gif"/>
+<img width="330" src="https://github.com/NaturaAurum/NaturaAurum/blob/master/assets/miku_001.gif"/>
+<img width="300" src="https://github.com/NaturaAurum/NaturaAurum/blob/master/assets/miku_002.gif"/>
 </div>
 
 <h3 align=center>
